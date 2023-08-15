@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+# CarbonChain by TechMavericks
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A Carbon Credit Marketplace for Offsetting Carbon Emissions
 
-Try running some of the following tasks:
+![Carbon Chain](assets/images/CarbonChainLogo.png)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## TechStack
+- Solidity
+- Ethers.Js
+- Node.Js
+- Web3.Js
+- Hardhat Framework
+- Web Suite: HTML/CSS/JavaScript
